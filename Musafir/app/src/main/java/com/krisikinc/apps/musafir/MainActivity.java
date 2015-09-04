@@ -16,7 +16,9 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    public void klikDoaPerjalan (){
+
+//    membuat method klikDoaPerjalanan
+    public void klikDoaPerjalanan (){
 
         Button btnDoaPerjalanan = (Button) findViewById(R.id.doaPerjalanan_btn);
         btnDoaPerjalanan.
